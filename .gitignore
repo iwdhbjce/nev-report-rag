@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+data/
+*.jsonl
+*.joblib
+*.pdf
+*.bak
+inspect_page11.py
+test_layout.py
