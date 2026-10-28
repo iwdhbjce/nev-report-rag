@@ -1,0 +1,9 @@
+﻿streamlit
+jieba
+joblib
+numpy
+requests
+rank-bm25
+scikit-learn
+pymupdf==1.28.2
+pymupdf4llm
